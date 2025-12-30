@@ -1,0 +1,14 @@
+
+{
+  "name": "strong-backend-api",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "uuid": "^9.0.1"
+  }
+}
